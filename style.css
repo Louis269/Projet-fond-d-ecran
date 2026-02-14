@@ -9,14 +9,3 @@ body {
 canvas {
     display: block;
 }
-
-button {
-    margin: 20px;
-    padding: 10px 20px;
-    font-size: 16px;
-    background: #00f0ff;
-    border: none;
-    cursor: pointer;
-    color: black;
-    font-weight: bold;
-}
